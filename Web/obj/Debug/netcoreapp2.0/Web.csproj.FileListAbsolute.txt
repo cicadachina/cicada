@@ -1,0 +1,10 @@
+e:\AspCore2\Cicada\Web\bin\Debug\netcoreapp2.0\Web.deps.json
+e:\AspCore2\Cicada\Web\bin\Debug\netcoreapp2.0\Web.runtimeconfig.json
+e:\AspCore2\Cicada\Web\bin\Debug\netcoreapp2.0\Web.runtimeconfig.dev.json
+e:\AspCore2\Cicada\Web\bin\Debug\netcoreapp2.0\Web.dll
+e:\AspCore2\Cicada\Web\bin\Debug\netcoreapp2.0\Web.pdb
+e:\AspCore2\Cicada\Web\obj\Debug\netcoreapp2.0\Web.csproj.CoreCompileInputs.cache
+e:\AspCore2\Cicada\Web\obj\Debug\netcoreapp2.0\Web.AssemblyInfoInputs.cache
+e:\AspCore2\Cicada\Web\obj\Debug\netcoreapp2.0\Web.AssemblyInfo.cs
+e:\AspCore2\Cicada\Web\obj\Debug\netcoreapp2.0\Web.dll
+e:\AspCore2\Cicada\Web\obj\Debug\netcoreapp2.0\Web.pdb
