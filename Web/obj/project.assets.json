@@ -12540,11 +12540,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "e:\\AspCore2\\Cicada\\Web\\Web.csproj",
+      "projectUniqueName": "e:\\AspCore2\\cicada.git\\trunk\\Web\\Web.csproj",
       "projectName": "Web",
-      "projectPath": "e:\\AspCore2\\Cicada\\Web\\Web.csproj",
+      "projectPath": "e:\\AspCore2\\cicada.git\\trunk\\Web\\Web.csproj",
       "packagesPath": "C:\\Users\\ECRF\\.nuget\\packages\\",
-      "outputPath": "e:\\AspCore2\\Cicada\\Web\\obj\\",
+      "outputPath": "e:\\AspCore2\\cicada.git\\trunk\\Web\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

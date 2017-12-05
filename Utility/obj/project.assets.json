@@ -183,11 +183,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\AspCore2\\Cicada\\Utility\\Utility.csproj",
+      "projectUniqueName": "e:\\AspCore2\\cicada.git\\trunk\\Utility\\Utility.csproj",
       "projectName": "Utility",
-      "projectPath": "E:\\AspCore2\\Cicada\\Utility\\Utility.csproj",
+      "projectPath": "e:\\AspCore2\\cicada.git\\trunk\\Utility\\Utility.csproj",
       "packagesPath": "C:\\Users\\ECRF\\.nuget\\packages\\",
-      "outputPath": "E:\\AspCore2\\Cicada\\Utility\\obj\\",
+      "outputPath": "e:\\AspCore2\\cicada.git\\trunk\\Utility\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

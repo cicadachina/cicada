@@ -183,11 +183,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\AspCore2\\Cicada\\Model\\Model.csproj",
+      "projectUniqueName": "e:\\AspCore2\\cicada.git\\trunk\\Model\\Model.csproj",
       "projectName": "Model",
-      "projectPath": "E:\\AspCore2\\Cicada\\Model\\Model.csproj",
+      "projectPath": "e:\\AspCore2\\cicada.git\\trunk\\Model\\Model.csproj",
       "packagesPath": "C:\\Users\\ECRF\\.nuget\\packages\\",
-      "outputPath": "E:\\AspCore2\\Cicada\\Model\\obj\\",
+      "outputPath": "e:\\AspCore2\\cicada.git\\trunk\\Model\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
